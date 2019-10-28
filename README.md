@@ -1,10 +1,6 @@
-[Configuration]: #Configuration
-
 # vitoconnect-metrics-collector
 
 Collects various metrics from your Viessmann heating system and stores them in Grafana (e.g. with Graphite or InfluxDB)
-
-# Description
 
 # Requirements
 * Node.JS >= 10
