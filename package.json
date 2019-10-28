@@ -1,0 +1,29 @@
+{
+    "name": "vitoconnect-metrics-collector",
+    "version": "0.1.0",
+    "description": "Collect various metrics from Viessmann heating systems",
+    "author": "Henry Spanka",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/henry-spanka/vitoconnect-metrics-collector.git"
+      },
+    "bugs": {
+        "url": "https://github.com/henry-spanka/vitoconnect-metrics-collector/issues"
+    },
+    "homepage": "https://github.com/henry-spanka/vitoconnect-metrics-collector#readme",
+    "keywords": [
+        "viessmann",
+        "vitoconnect"
+    ],
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {
+        "extend": "^3.0.0",
+        "graphite": "^0.1.2",
+        "npm": "^5.7.1",
+        "pretty-data": "^0.40.0",
+        "xml2js": "^0.4.19"
+    }
+}
